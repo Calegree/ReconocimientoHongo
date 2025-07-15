@@ -12,19 +12,20 @@ Prototipo exploratorio que permite **reconocer hongos del género Morchella** a 
 - 🧪 Python + entorno virtual
 
 ---
-
-## ⚙️ Instalación rápida del backend (FastAPI)
-
 ### 1. Verifica que tienes Python instalado
 
-```bash
 python3 --version
 
+2. Crea un entorno virtual
 
-Activa el entorno virtual
-bash
-Copiar
-Editar
+# Windows
+python -m venv venv
+
+# Mac/Linux
+python3 -m venv venv
+
+3.- Activa el entorno virtual
+
 # Windows
 venv\Scripts\activate
 
