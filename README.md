@@ -31,3 +31,11 @@ venv\Scripts\activate
 
 # Mac/Linux
 source venv/bin/activate
+
+4.- Instalar dependencias
+
+pip install -r requirements.txt
+
+5.- Correr programa
+
+uvicorn main:app --reload
