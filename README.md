@@ -39,3 +39,5 @@ pip install -r requirements.txt
 5.- Correr programa
 
 uvicorn main:app --reload
+
+6.- Ejecutar pip freeze > requirements.txt si se instala una dependencia nueva (opcional)
